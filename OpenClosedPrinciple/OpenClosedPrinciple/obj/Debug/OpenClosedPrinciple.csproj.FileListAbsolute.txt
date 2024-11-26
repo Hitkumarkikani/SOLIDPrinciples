@@ -1,0 +1,7 @@
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.AssemblyReference.cache
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+D:\C-Shap\SOLID-Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
